@@ -1,10 +1,10 @@
 <?php
 declare(strict_types=1);
 
-$host = 'localhost';
-$db   = 'finance_tracker';
-$user = 'root';
-$pass = '';
+$host = 'sql204.infinityfree.com';
+$db   = 'if0_43001795_FINANCETRACKER';
+$user = 'if0_43001795';
+$pass = 'qCnJPqILV0';
 $charset = 'utf8mb4';
 
 $dsn = "mysql:host=$host;dbname=$db;charset=$charset";
