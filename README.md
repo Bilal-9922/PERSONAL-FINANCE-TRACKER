@@ -379,7 +379,7 @@ Future versions could include:
 
 ## 👨‍💻 Developer
 
-**Bilal Shaikh**
+**Mohammad Bilal Shaikh**
 
 Computer Engineering Student
 
